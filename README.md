@@ -21,6 +21,7 @@
 <code><img height="36" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"></code>
 <code><img height="36" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Light.svg"></code>
 <code><img height="36" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg"></code>
+<code><img height="36" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg"></code>
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=lethanhtuan939&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
