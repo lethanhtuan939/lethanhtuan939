@@ -5,7 +5,7 @@
 <img align="right" alt="GIF" width="300" height="150" src="https://th.bing.com/th/id/R.850477fed08bfe98598082bcd309ce70?rik=9l9aIUrNeKA%2fPw&pid=ImgRaw&r=0" />
 
 - 💻 I want to be a **Fullstack Developer**
-- 🌱 I’m currently learning Spring boot, Angular
+- 🌱 I’m currently learning Web development
 - 📫 Reach me thanhtuanle939@gmail.com
 - ⚡ Fun fact I think I am funny!
   
