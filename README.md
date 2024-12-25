@@ -1,4 +1,6 @@
-# Hello World! 👋
+<h1>
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=1000&width=435&lines=Hello+World!+%F0%9F%91%8B;I'm+Le+Thanh+Tuan+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;" />
+</h1>
  I'm Thanh Tuan Le, an Information Technology student from Vietnam 👨‍💻.
 
 ## 👨🏻‍💻 About Me:
