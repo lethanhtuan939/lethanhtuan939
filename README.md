@@ -16,6 +16,7 @@
 <code><img height="36" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"></code>
 <code><img height="36" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg"></code>
 <code><img height="36" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Light.svg"></code>
+<code><img height="36" src="https://github.com/tandpfun/skill-icons/blob/main/icons/FastAPI.svg"></code>
 <code><img height="36" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VueJS-Light.svg"></code>
 <code><img height="36" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg"></code>
 <code><img height="36" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg"></code>
