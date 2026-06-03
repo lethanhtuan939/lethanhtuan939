@@ -32,3 +32,6 @@
 ## 📊 GitHub Stats:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lethanhtuan939&theme=aura_dark)
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/jkc66/jkc66/output/snake.svg" alt="Snake animation" />
